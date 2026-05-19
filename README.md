@@ -1,5 +1,5 @@
 
-# First Spring App
+# Spring Boot Project Task 1
 
 ## Technologies
 - Java 17
@@ -25,6 +25,5 @@ http://localhost:8080/greeting?name=Vistula
 - Query parameters
 - Static image support
 
-# springbootproject-task1
-Java Spring Boot Project Task 1
+
 
