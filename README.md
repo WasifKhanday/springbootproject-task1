@@ -1,3 +1,4 @@
+
 # First Spring App
 
 ## Technologies
@@ -23,3 +24,7 @@ http://localhost:8080/greeting?name=Vistula
 - GET requests
 - Query parameters
 - Static image support
+
+# springbootproject-task1
+Java Spring Boot Project Task 1
+
